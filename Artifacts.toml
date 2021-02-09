@@ -1,0 +1,115 @@
+[[czmq]]
+arch = "aarch64"
+git-tree-sha1 = "1572302320a482226f0ab6d1da73ebc654a7e986"
+libc = "glibc"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "e7ab3e637d80b7ea379da647e794f2edcad793b4defd3e5203bcf1dd732e5d2b"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.aarch64-linux-gnu.tar.gz"
+[[czmq]]
+arch = "aarch64"
+git-tree-sha1 = "72fcc28906ede553ec35c4443cd4351598416d37"
+libc = "musl"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "88822f41b37fbd50741514f4136b6f538581805b08e57ef172c87eedee3ba860"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.aarch64-linux-musl.tar.gz"
+[[czmq]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2a6fd5b1e3b5b3455c1afdd5b5e7de5546bd6038"
+libc = "glibc"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "996b29c27694da649e60fd2dc8c38574491eaba7a1c0b1087b9532b8acc9d746"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[czmq]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a465a9af165ba9705ceb9a7f4d1fe4dc36c5e55f"
+libc = "musl"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "5eedd2badc115401ce8bd4d4d0e451b85117b1a5c95555bacd8f5cc2043c5305"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.armv7l-linux-musleabihf.tar.gz"
+[[czmq]]
+arch = "i686"
+git-tree-sha1 = "059d1986e1aad730af2c307a8a20cbcbb8fe1bb6"
+libc = "glibc"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "f44239db1989418c03abbabc6888887e2b8f22b9a6bea005181043b3e633f111"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.i686-linux-gnu.tar.gz"
+[[czmq]]
+arch = "i686"
+git-tree-sha1 = "1eca720860ad0bc2bef6248ddc60b1c41d193ed9"
+libc = "musl"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "6b3b8a9162ec914b474e14be15019ab8f976b00bb7d53ba41236c63ffd92d5eb"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.i686-linux-musl.tar.gz"
+[[czmq]]
+arch = "i686"
+git-tree-sha1 = "a43f1c32261bc86f9e18de6f6da71a9490deda1b"
+os = "windows"
+
+    [[czmq.download]]
+    sha256 = "713f77952dbff5ce35833a4d9800ef9319a101432900add67ddeb7c917f39339"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.i686-w64-mingw32.tar.gz"
+[[czmq]]
+arch = "powerpc64le"
+git-tree-sha1 = "f3219fca4782a9d6c0b8f7f8c32bfadc1034dc84"
+libc = "glibc"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "164887385aef0895f087dcdac40cc3b74b539333d95b606db4dd8b99f5442414"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.powerpc64le-linux-gnu.tar.gz"
+[[czmq]]
+arch = "x86_64"
+git-tree-sha1 = "04b258ca383d7430ce3a1aa9ae912754f18a583a"
+os = "macos"
+
+    [[czmq.download]]
+    sha256 = "d7f947fa3af4c5abc9ffeb41908c781536346395676f487b39d0c018e8383a8f"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.x86_64-apple-darwin.tar.gz"
+[[czmq]]
+arch = "x86_64"
+git-tree-sha1 = "9ac54d85198cb109ca0e6edd91867727f7900dfc"
+libc = "glibc"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "3e598799cd7dac23e3e4313a087b6a998bd688468dbb6d45fcda42c049c7212b"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.x86_64-linux-gnu.tar.gz"
+[[czmq]]
+arch = "x86_64"
+git-tree-sha1 = "a5d6ef485b4ad1acd39415e7ea4a0117ccd72a8a"
+libc = "musl"
+os = "linux"
+
+    [[czmq.download]]
+    sha256 = "f297eef4a0f8a1095c40dea4fc864c1e66adbe2b7e1126f30b3b1f42deb10eb9"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.x86_64-linux-musl.tar.gz"
+[[czmq]]
+arch = "x86_64"
+git-tree-sha1 = "fcc8cd4e8f27344e022c2d38c21278877bbf130b"
+os = "freebsd"
+
+    [[czmq.download]]
+    sha256 = "905e30da3824232468af1c85566e65d1722bbb50c3518bcc78decf43fadde71a"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.x86_64-unknown-freebsd.tar.gz"
+[[czmq]]
+arch = "x86_64"
+git-tree-sha1 = "caa247b48e05d182ff85350a9a47fd1cba91c442"
+os = "windows"
+
+    [[czmq.download]]
+    sha256 = "1e9d9c3512579bb50f497cfe7c2fea9b6d1d39b97795583f9887538c21036eda"
+    url = "https://github.com/JuliaBinaryWrappers/czmq_jll.jl/releases/download/czmq-v4.2.1+0/czmq.v4.2.1.x86_64-w64-mingw32.tar.gz"
